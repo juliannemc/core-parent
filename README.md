@@ -1,3 +1,4 @@
 # core-parent 
 
-arquivo de teste e descrição
+arquivo de teste e descrição 
+nova modificação
